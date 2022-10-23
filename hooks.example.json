@@ -1,0 +1,12 @@
+{
+    "/api": [
+        {
+            "script": "./test.sh"
+        }
+    ],
+    "/api2": [
+        {
+            "script": "api2.script"
+        }
+    ]
+}
